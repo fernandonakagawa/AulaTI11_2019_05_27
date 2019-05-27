@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AulaTI11_2019_05_27</string>
+    <string name="rolagemDeDados">Rolagem de Dados!</string>
+    <string name="escolhaDado">Escolha o seu dado:</string>
+    <string name="escolhaOpcao">Escolha uma opção</string>
+    <string name="ok">OK</string>
+    <string name="sorteio">Sorteio</string>
+    <string-array name="tiposDados">
+        <item>D6</item>
+        <item>D8</item>
+        <item>D10</item>
+        <item>D20</item>
+        <item>D100</item>
+    </string-array>
+</resources>
